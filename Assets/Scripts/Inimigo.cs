@@ -19,8 +19,7 @@ public class Inimigo : MonoBehaviour
     
     
 
-        SpriteRenderer spriteRenderer = GetComponent<SpriteRenderer>(); 
-        spriteRenderer.gameObject.layer = LayerMask.NameToLayer("Primeiro Plano");
+      
 
 
 
